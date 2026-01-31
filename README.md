@@ -1,4 +1,3 @@
-# SCT_ML_04
 # ✋ Hand Gesture Recognition using Grayscale CNN
 
 This project performs **real-time hand gesture recognition** using a webcam. It leverages a custom-trained **Convolutional Neural Network (CNN)** to classify grayscale images of hand gestures into one of 10 predefined categories.
