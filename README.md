@@ -51,9 +51,9 @@ Press `Q` or close the window to exit the webcam interface.
 
 1. Clone or download the project:
 
-   git clone https://github.com/Anindya-Dev/SCT_ML_04
+   git clone https://github.com/Anindya-Dev/Hand_Gesture_Recognition_System
 
-   cd SCT_ML_04
+   cd Hand_Gesture_Recognition_System
 
    pip install -r requirements.txt
 
